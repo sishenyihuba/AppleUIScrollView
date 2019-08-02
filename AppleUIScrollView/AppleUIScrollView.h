@@ -11,7 +11,11 @@
 NS_ASSUME_NONNULL_BEGIN
 
 @interface AppleUIScrollView : UIView
+
 @property (nonatomic, assign) CGSize contentSize;
+@property (nonatomic) BOOL scrollVertical;
+@property (nonatomic) BOOL scrollHorizontal;
+
 @end
 
 NS_ASSUME_NONNULL_END
