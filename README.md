@@ -8,6 +8,6 @@
  ### Second verson UIScrollView wit Decelerate Fearure
  ![UIScrollView wit Decelerate Fearure](https://github.com/sishenyihuba/AppleUIScrollView/raw/master/Gif/AppleUIScrollView2.0+Decelerate.gif)
 
- ### Second verson UIScrollView witBouncing RubberBanding
- ![UIScrollView wit Decelerate Fearure](https://github.com/sishenyihuba/AppleUIScrollView/raw/master/Gif/AppleUIScrollView3.0+BouncingRubberBanding.gif)
+ ### Third verson UIScrollView witBouncing RubberBanding
+ ![UIScrollView wit Decelerate Fearure](https://github.com/sishenyihuba/AppleUIScrollView/raw/master/Gif/AppleUIScrollView3.0+Bouncing&RubberBanding.gif)
 
